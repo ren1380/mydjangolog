@@ -1,3 +1,19 @@
-body {
-  background-color: red;
-}
+  body {
+    background-color: black;
+    background-image: url(Mikko-Lagerstedt-Approaching-Night.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+  }
+
+  body *{
+    font-family: arial;
+    font-weight: normal;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  a,a:hover, a:visited{
+    color: #fff;
+    text-decoration: none;
+  }
